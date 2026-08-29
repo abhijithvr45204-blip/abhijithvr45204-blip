@@ -1,11 +1,11 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **abhijithvr45204-blip/abhijithvr45204-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
-- My Portfolio: [Portfolio](https://github.com/abhijithvr45204-blip/portfolio.git)
+## My Portfolio: [Portfolio](https://github.com/abhijithvr45204-blip/portfolio.git)
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning CyberSecurity , PHP , Backend-Web Development in NodeJS
